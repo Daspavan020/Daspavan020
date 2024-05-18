@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/564x/ac/05/08/ac0508622efefbe7f5dcf89444278597.jpg"> <p>
+<p align="center"> <img src="https://i.pinimg.com/originals/57/12/d9/5712d95532f5d151ab0a657830a67953.gif"> <p>
 
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
