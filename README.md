@@ -1,7 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/cc/26/20/cc2620a70af02a0e922a51466c2fdf13.gif)
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2768923/screenshots/7092251/media/bdd6b91480344aa6f0f6a5db926147f8.gif">
+<style>
+  img
+  {
+    border-radius: 50%;
+    }
+</style>
+<img align="right" alt="Coding" width="200" radius= src="https://cdn.dribbble.com/users/2768923/screenshots/7092251/media/bdd6b91480344aa6f0f6a5db926147f8.gif">
 
 - 🔭 I’m currently working on **Shiftup**
 
