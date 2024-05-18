@@ -1,4 +1,5 @@
 ![MasterHead](https://cdn.pfps.gg/banners/9147-dark-n-purple-sky-banner.gif)
+![MasterHead](https://i.pinimg.com/564x/fb/79/4f/fb794fbef9b8e08f4cf41c56fea3c8ca.jpg)
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
 <img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/2768923/screenshots/7092251/media/bdd6b91480344aa6f0f6a5db926147f8.gif">
