@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif"> <p>
 
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
-<h3 align="center">A passionate frontend developer, Photographer, & Designer</h3>
+<h3 align="center">A passionate frontend developer 🖥️ , Photographer 📸, & Designer ✍🏻</h3>
 
 - 🔭 I’m currently working on <u><i>**Shiftup** </i></u>: Shiftup is an innovative application designed to help students effectively manage their academic workload and schedules. It offers a user-friendly interface and powerful features tailored to assist students in organizing their tasks, prioritizing assignments, and staying on track with their academic goals. With Shiftup, students can streamline their workflow, reduce stress, and enhance productivity, making it an invaluable tool for tackling academic challenges.
 
