@@ -4,8 +4,9 @@
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
 <img align="right" alt="Coding" width="150" src="https://i.pinimg.com/564x/4c/60/42/4c6042228823e4a4657dc30425955222.jpg">
 
-- 🔭 I’m currently working on <h3>**Shiftup** </h3> :
-Shiftup connects students with mentors for guidance and provides study materials for those dealing with backlogs. It's a supportive platform tailored to help students overcome academic challenges and excel in their studies.
+- 🔭 I’m currently working on <h4><u><i>**Shiftup** </i></u></h4> :
+
+Shiftup is an innovative application designed to help students effectively manage their academic workload and schedules. It offers a user-friendly interface and powerful features tailored to assist students in organizing their tasks, prioritizing assignments, and staying on track with their academic goals. With Shiftup, students can streamline their workflow, reduce stress, and enhance productivity, making it an invaluable tool for tackling academic challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
