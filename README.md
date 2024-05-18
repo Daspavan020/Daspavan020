@@ -1,5 +1,4 @@
-<p align="center"> 
-![MasterHead](https://i.pinimg.com/originals/4e/8f/f5/4e8ff5885ce66f475d62c6785e2d914c.gif) <p>
+<p align="center"> <img src="https://i.pinimg.com/564x/ac/05/08/ac0508622efefbe7f5dcf89444278597.jpg"> <p>
 
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
