@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
 <style>
-  img
-  {
+  img{
     border-radius: 50%;
     }
 </style>
