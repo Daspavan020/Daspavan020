@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
 <h3 align="center">A passionate frontend developer, Photographer, & Designer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fcarolynnyoe.home.blog%2Ftag%2Fgif%2F&psig=AOvVaw36bKA8WuvN1EvnrB947Bof&ust=1716145075237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDzlN_wl4YDFQAAAAAdAAAAABAa")
 
 - 🔭 I’m currently working on **Shiftup**
 
