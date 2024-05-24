@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif"> <p>
 
 <h1 align="center">Hi 👋, I'm DAS PAVAN KUMAR</h1>
-<p align="center"> <img src="https://i.pinimg.com/236x/4a/10/cc/4a10ccf9ea89e1a8c2276a9f1836255d.jpg"> <p>
 
 <h3 align="center">A passionate frontend developer 🖥️ , Photographer 📸, & Designer ✍🏻</h3>
 
