@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer 🖥️ , Photographer 📸, & Designer ✍🏻</h3>
 
-- 🔭 I’m currently working on <u><i>**Shiftup** </i></u>: Shiftup is an innovative application designed to help students effectively manage their academic workload and schedules. It offers a user-friendly interface and powerful features tailored to assist students in organizing their tasks, prioritizing assignments, and staying on track with their academic goals. With Shiftup, students can streamline their workflow, reduce stress, and enhance productivity, making it an invaluable tool for tackling academic challenges.
+- 🔭 I’m currently working on <u><i>**Shiftup** </i></u>: Shiftup is a cutting-edge app for students to manage their workload and schedules, essential for academic success. It's user-friendly, helps prioritize tasks, boosts productivity, and specifically caters to backlog students, aiding them in efficiently tackling their academic challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
